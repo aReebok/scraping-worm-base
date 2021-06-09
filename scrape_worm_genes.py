@@ -1,4 +1,4 @@
-# WRITTEN B UNKNWON SOURCE -- doesn't work as of now
+# WRITTEN BY UNKNWON SOURCE -- doesn't work as of now (not my code but the original code)
 # Scrapes all the worm genes and places them in a csv file
 # that can be opened in a spreadsheet like Excel.
 #
